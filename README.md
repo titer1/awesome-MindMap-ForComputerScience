@@ -28,3 +28,12 @@ MindMap For ComputerScience
 ![https://creativecommons.org/publicdomain/zero/1.0/](https://camo.githubusercontent.com/0e32abe541a386cbaf8370777b4b55c35d31657d/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632f342e302f38387833312e706e67)
 #todo
 [java memory model + mmap](http://blog.csdn.net/mr_zhuqiang/article/details/47103407)
+[java collecion full version on processon.com](https://www.processon.com/view/5853ec29e4b0fb145a1f017f)
+[java io on processon.com](https://www.processon.com/view/58579498e4b0f767284d1e98)
+
+
+#java 1.7 collection
+[java 1.7 collection](https://lh4.googleusercontent.com/-1UFtxdW0rrY/T86BNpCLVjI/AAAAAAAABJs/QfXB1orOfsI/s1600/Java-Collections_API-Queue.jpg)
+
+
+more words please search "java collection jdk |java collection cheat sheet"
