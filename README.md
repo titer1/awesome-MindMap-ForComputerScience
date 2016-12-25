@@ -12,6 +12,7 @@ MindMap For ComputerScience
 - [java multithread | chinese version](http://blog.csdn.net/titer1/article/details/53872208)
 - [java front-end ](http://www.cnblogs.com/javaee6/p/3726812.html)
 - [java server | series 1](http://www.cnblogs.com/javaee6/p/3726812.html)
+- [java virutal machine :JVM | chinese version](http://blog.csdn.net/titer1/article/details/53872942)
 
 ###mmap support projects
  - [java mind map on github](https://github.com/woyuan/java-mind-mapping)
