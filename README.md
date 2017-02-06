@@ -6,22 +6,31 @@ MindMap For ComputerScience
 
 #Language
 
-
+##scala
+  [scala | all in one](http://s3.51cto.com/wyfs02/M00/58/C0/wKioL1S7mV2jcqWAACsRJ5pWaY0687.jpg)
+###more 
+  [scala | more about class](http://marsishandsome.github.io/images/Scala_Cheatsheet_1.jpg)
+  [scala | with chinese command](http://dl2.iteye.com/upload/attachment/0092/5332/79dd6048-a5c0-37b9-9567-98b62f620d11.jpeg)
+  
 ##java
 - [think in java|chinese version](http://blog.csdn.net/titer1/article/details/53872123)
 - [java multithread | chinese version](http://blog.csdn.net/titer1/article/details/53872208)
 - [java front-end ](http://www.cnblogs.com/javaee6/p/3726812.html)
 - [java server | series 1](http://www.cnblogs.com/javaee6/p/3726812.html)
 - [java virutal machine :JVM | chinese version](http://blog.csdn.net/titer1/article/details/53872942)
+###java multi-thread
+[java multi-thread | chinese version](http://hadoop1989.com/img/2016/20160401151236.png)
 
 ###mmap support projects
  - [java mind map on github](https://github.com/woyuan/java-mind-mapping)
  
+ 
+
 ###others
 - [java full-stack|| chinese version](http://xiaodong.me/java-mind-map/)
 - [java basic concept | chinese version](http://blog.csdn.net/jackfrued/article/details/41576837)
 
-
+ [git](http://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet.png?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue)
 
 
 #license
