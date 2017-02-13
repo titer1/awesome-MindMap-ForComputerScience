@@ -24,8 +24,16 @@ MindMap For ComputerScience
 ###mmap support projects
  - [java mind map on github](https://github.com/woyuan/java-mind-mapping)
  
- 
-
+ ##hadoop
+  [hadoop arch](https://s3.amazonaws.com/files.dezyre.com/images/blog/Big+Data+and+Hadoop+Training+Hadoop+Components+and+Architecture_1.png)
+  
+  [Hadoop mapreduce sequence diagram| pay attention partition, shuffle input& output](http://mikepluta.com/wp-content/uploads/hadoop-mapreduce-sequence.png)
+  
+  [map reduce workflow| animation ,no shuffle inside , no mapper + reducer show in detail](http://bigdata.wikispaces.asu.edu/file/view/output_viU3ed.gif/486633430/726x571/output_viU3ed.gif)
+  
+  
+  
+  
 ###others
 - [java full-stack|| chinese version](http://xiaodong.me/java-mind-map/)
 - [java basic concept | chinese version](http://blog.csdn.net/jackfrued/article/details/41576837)
